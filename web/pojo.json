@@ -1,0 +1,41 @@
+{
+	"HotelListResponse": {
+		"customerSessionId": "AC110002-98CA-7691-6342-01FEBD8973DF",
+		"numberOfRoomsRequested": 0,
+		"moreResultsAvailable": false,
+		"HotelList": {
+			"@size": "1",
+			"@activePropertyCount": "1",
+			"HotelSummary": {
+				"@order": "0",
+				"hotelId": 201252,
+				"name": "Super 8 by Wyndham Belleville",
+				"address1": "45707 South I-94 Service Drive",
+				"city": "Belleville",
+				"stateProvinceCode": "MI",
+				"postalCode": 48111,
+				"countryCode": "US",
+				"airportCode": "YIP",
+				"propertyCategory": 1,
+				"hotelRating": 2.0,
+				"confidenceRating": 52,
+				"amenityMask": 134236161,
+				"tripAdvisorRating": 3.0,
+				"tripAdvisorReviewCount": 270,
+				"tripAdvisorRatingUrl": "http:\/\/www.tripadvisor.com\/img\/cdsi\/img2\/ratings\/traveler\/3.0-39958-4.png",
+				"locationDescription": "Near Yankee Air Museum",
+				"shortDescription": "<p><b>Property Location<\/b> <br \/>This motel is within the region of Yankee Air Museum and Village Theater at Cherry Hill.<\/p><p><b>Rooms<\/b> <br \/>Make yourself at home in one of the 62",
+				"highRate": 80.05,
+				"lowRate": 70.04,
+				"rateCurrencyCode": "USD",
+				"latitude": 42.21779,
+				"longitude": -83.48727,
+				"proximityDistance": -1.0,
+				"proximityUnit": "MI",
+				"hotelInDestination": false,
+				"thumbNailUrl": "\/hotels\/1000000\/460000\/459600\/459545\/68c89de0_t.jpg",
+				"deepLink": "http:\/\/www.travelnow.com\/templates\/504144\/hotels\/201252\/overview?lang=en&currency=USD&standardCheckin=null\/null\/null&standardCheckout=null\/null\/null"
+			}
+		}
+	}
+}
